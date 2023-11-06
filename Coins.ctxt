@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Coins
+comment0.text=\r\n\ The\ amount\ of\ coins\ the\ player\ has.\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-01\r\n
+comment1.params=coins
+comment1.target=Coins(int)
+comment1.text=\r\n\ Constructs\ the\ object\ and\ displays\ the\ coin\ amount\ in\ the\ top\ left.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ updates\ the\ displayed\ coin\ amount.\r\n
+comment3.params=
+comment3.target=void\ display()
+comment3.text=\r\n\ Displays\ the\ amount\ of\ coins\ the\ player\ has\ in\ the\ top\ left.\r\n
+comment4.params=amount
+comment4.target=void\ add(int)
+comment4.text=\r\n\ Add\ a\ certain\ amount\ of\ coins\ to\ the\ players\ coin\ amount.\r\n
+comment5.params=amount
+comment5.target=void\ remove(int)
+comment5.text=\r\n\ Remove\ a\ certain\ amount\ of\ coins\ from\ the\ player's\ coin\ amount.\r\n
+comment6.params=
+comment6.target=int\ getCoins()
+comment6.text=\r\n\ Get\ the\ amount\ of\ coins\ the\ player\ has.\r\n
+numComments=7

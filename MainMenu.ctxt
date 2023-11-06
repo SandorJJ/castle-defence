@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=\r\n\ The\ main\ menu\ of\ Castle\ Defence.\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-01\r\n
+comment1.params=
+comment1.target=MainMenu()
+comment1.text=\r\n\ Creates\ the\ main\ menu\ space.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ checks\ if\ the\ background\ was\ clicked\ and\ then\ if\ a\ button\ was\ clicked.\r\n
+comment3.params=
+comment3.target=void\ clicked()
+comment3.text=\r\n\ Checks\ if\ the\ background\ was\ clicked\ and\ then\ if\ a\ button\ was\ clicked.\r\n
+numComments=4

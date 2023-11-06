@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SubWave
+comment0.text=\r\n\ A\ subwave\ made\ up\ of\ enemies.\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-02\r\n
+comment1.params=enemy\ amount\ time
+comment1.target=SubWave(Enemy,\ int,\ int)
+comment1.text=\r\n\ Constructs\ the\ subwave\ object\ with\ an\ enemy,\ amount\ and\ time.\ Also\ hides\ image.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ summons\ the\ next\ enemy\ in\ the\ subwave.\r\n
+comment3.params=
+comment3.target=boolean\ getComplete()
+comment3.text=\r\n\ Returns\ true\ if\ the\ subwave\ is\ done\ summoning\ and\ false\ otherwise.\r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Base
+comment0.text=\r\n\ A\ base\ on\ which\ towers\ are\ placed.\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-01\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Constantly\ checks\ if\ the\ base\ was\ clicked.\r\n
+comment2.params=
+comment2.target=void\ clicked()
+comment2.text=\r\n\ Checks\ whether\ the\ base\ is\ clicked,\ no\ other\ base\ is\ currently\ active,\ and\ the\ base\ isn't\ taken,\ then\ opens\ the\ shop.\r\n
+comment3.params=active
+comment3.target=void\ setActive(boolean)
+comment3.text=\r\n\ Sets\ the\ active\ static\ value\ to\ true\ or\ false,\ if\ false\ then\ sets\ the\ image\ to\ the\ inactive\ base\ image.\r\n
+comment4.params=empty
+comment4.target=void\ setTaken(boolean)
+comment4.text=\r\n\ Sets\ the\ taken\ instance\ value\ to\ true\ or\ false.\r\n
+numComments=5

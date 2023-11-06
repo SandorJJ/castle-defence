@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LoadScreen
+comment0.text=\r\n\ A\ load\ screen\ to\ load\ between\ different\ scenes.\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-01\r\n
+comment1.params=previousBackground\ nextWorld
+comment1.target=LoadScreen(greenfoot.GreenfootImage,\ greenfoot.World)
+comment1.text=\r\n\ Creates\ the\ load\ screen\ object.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ loads\ the\ next\ part\ of\ the\ transition.\r\n
+comment3.params=
+comment3.target=void\ load()
+comment3.text=\r\n\ Loads\ the\ next\ part\ of\ the\ transition.\r\n
+numComments=4

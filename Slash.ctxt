@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Slash
+comment0.text=\r\n\ The\ slash\ is\ a\ projectile\ that\ hits\ multiple\ enemies.\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-06\r\n
+comment1.params=knight\ velocity\ startingX\ startingY
+comment1.target=Slash(Knight,\ Vector,\ int,\ int)
+comment1.text=\r\n\ Constructs\ the\ slash\ object\ and\ initializes\ the\ images.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ checks\ if\ the\ slash\ hit\ an\ enemy,\ animates\ the\ slash,\ and\ moves\ the\ slash.\r\n
+comment3.params=
+comment3.target=void\ initializeImages()
+comment3.text=\r\n\ Initializes\ the\ images\ of\ the\ slash.\r\n
+comment4.params=
+comment4.target=void\ animate()
+comment4.text=\r\n\ Animates\ the\ slash.\r\n
+comment5.params=
+comment5.target=void\ checkEnemyHit()
+comment5.text=\r\n\ Checks\ if\ the\ slash\ hit\ any\ enemies.\r\n
+comment6.params=
+comment6.target=int\ getDamage()
+comment6.text=\r\n\ Returns\ the\ damage\ of\ the\ slash.\r\n
+comment7.params=
+comment7.target=Enemy[]\ getImmuneEnemies()
+comment7.text=\r\n\ Returns\ the\ immune\ enemies\ of\ the\ slash.\r\n
+numComments=8

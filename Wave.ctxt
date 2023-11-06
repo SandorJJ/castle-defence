@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Wave
+comment0.text=\r\n\ A\ wave\ of\ enemies\ made\ up\ of\ subwaves\ of\ enemies.\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-02\r\n
+comment1.params=subWaves
+comment1.target=Wave(java.util.List)
+comment1.text=\r\n\ Constructs\ the\ wave\ object.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ summons\ the\ next\ enemy\ in\ the\ subwave.\r\n
+comment3.params=
+comment3.target=void\ summon()
+comment3.text=\r\n\ Summons\ the\ next\ enemy\ in\ the\ subwave.\r\n
+comment4.params=current\ total
+comment4.target=void\ display(int,\ int)
+comment4.text=\r\n\ Displays\ the\ current\ wave\ out\ of\ the\ total\ waves.\r\n
+comment5.params=
+comment5.target=boolean\ done()
+comment5.text=\r\n\ Returns\ true\ if\ the\ subwave\ is\ done\ spawning\ and\ false\ if\ not.\r\n
+numComments=6

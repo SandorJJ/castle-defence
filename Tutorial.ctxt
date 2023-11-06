@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Tutorial
+comment0.text=\r\n\ The\ tutorial\ of\ the\ game.\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-01\r\n
+comment1.params=
+comment1.target=Tutorial()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ checks\ if\ there\ have\ been\ any\ clicks,\ if\ there\ were\ then\ it\ checks\ if\ it\ was\ a\ click\ on\ the\ close\ button\ or\ to\ change\ scene.\r\n
+comment3.params=
+comment3.target=void\ changeScene()
+comment3.text=\r\n\ Changes\ the\ current\ scene,\ either\ to\ the\ next\ scene\ or\ the\ previous\ scene,\ left\ and\ right\ click.\r\n
+comment4.params=
+comment4.target=void\ exit()
+comment4.text=\r\n\ Exits\ the\ tutorial\ and\ returns\ to\ the\ main\ menu.\r\n
+comment5.params=text
+comment5.target=java.util.ArrayList\ formatText(java.lang.String)
+comment5.text=\r\n\ Formats\ the\ text\ passed\ in\ to\ be\ split\ into\ lines\ that\ can\ fit\ onto\ the\ tutorial\ dialogue\ box.\r\n
+numComments=6

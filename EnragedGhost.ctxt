@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EnragedGhost
+comment0.text=\r\n\ A\ more\ powerful\ version\ of\ the\ ghost.\r\n\ \r\n\ @author\ SJonas\ \r\n\ @version\ 2023-11-05\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Constantly\ moves\ and\ animates\ the\ ghost,\ also\ checks\ if\ it's\ still\ alive.\r\n
+comment2.params=
+comment2.target=int\ getHealth()
+comment2.text=\r\n\ Returns\ the\ health\ of\ the\ ghost.\r\n
+comment3.params=
+comment3.target=int\ getAttack()
+comment3.text=\r\n\ Returns\ the\ attack\ of\ the\ ghost.\r\n
+comment4.params=
+comment4.target=java.lang.String[]\ getImages()
+comment4.text=\r\n\ Returns\ the\ images\ of\ the\ ghost.\r\n
+numComments=5

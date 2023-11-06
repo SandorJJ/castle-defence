@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=UpgradeMenu
+comment0.text=\r\n\ Upgrade\ menu\ for\ towers.\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-04\r\n
+comment1.params=activeTower
+comment1.target=UpgradeMenu(Tower)
+comment1.text=\r\n\ Constructs\ the\ upgrade\ menu\ and\ dispays\ the\ correct\ upgrade\ menu\ type.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ renders\ the\ upgrade\ menu\ on\ top\ of\ all\ other\ objects\ and\ checks\ if\ it\ has\ been\ clicked.\r\n
+comment3.params=
+comment3.target=void\ clicked()
+comment3.text=\r\n\ Checks\ whether\ the\ upgrade\ menu\ was\ clicked\ and\ then\ what\ button\ was\ clicked.\r\n
+comment4.params=
+comment4.target=void\ loadMenuInfo()
+comment4.text=\r\n\ Loads\ the\ information\ of\ the\ upgrade\ menu.\r\n
+comment5.params=upgradeIndex
+comment5.target=boolean\ canAfford(int)
+comment5.text=\r\n\ Determines\ whether\ the\ player\ can\ afford\ to\ buy\ the\ tower,\ returns\ true\ if\ yes\ and\ false\ if\ not.\r\n
+comment6.params=
+comment6.target=void\ sell()
+comment6.text=\r\n\ Sells\ the\ active\ tower.\r\n
+comment7.params=
+comment7.target=void\ renderOnTop()
+comment7.text=\r\n\ Renders\ the\ upgrade\ menu\ on\ top\ of\ all\ other\ objects.\r\n
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EndMenu
+comment0.text=\r\n\ Displays\ the\ ending\ screen,\ either\ victory\ or\ game\ over.\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-04\r\n
+comment1.params=scene
+comment1.target=EndMenu(int)
+comment1.text=\r\n\ Constructs\ the\ ending\ scene,\ 1\ for\ victory,\ 0\ for\ game\ over.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ checks\ if\ the\ end\ menu\ was\ clicked,\ if\ yes\ then\ returns\ to\ the\ main\ menu.\r\n
+numComments=3

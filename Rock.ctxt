@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Rock
+comment0.text=\r\n\ The\ rock\ is\ a\ projectile\ that\ hits\ an\ enemy.\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-06\r\n
+comment1.params=rogue\ velocity\ startingX\ startingY
+comment1.target=Rock(Rogue,\ Vector,\ int,\ int)
+comment1.text=\r\n\ Constructs\ the\ rock\ object.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ checks\ if\ the\ rock\ hit\ an\ enemy\ and\ moves\ the\ rock.\r\n
+comment3.params=
+comment3.target=int\ getDamage()
+comment3.text=\r\n\ Returns\ the\ damage\ of\ the\ rock.\r\n
+comment4.params=
+comment4.target=Enemy[]\ getImmuneEnemies()
+comment4.text=\r\n\ Returns\ the\ immune\ enemies\ of\ the\ rock.\r\n
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MonsterBook
+comment0.text=\r\n\ A\ book\ that\ contains\ information\ about\ each\ enemy.\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-01\r\n
+comment1.params=
+comment1.target=MonsterBook()
+comment1.text=\r\n\ Constructs\ the\ object\ and\ loads\ the\ information\ of\ the\ first\ page.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ renders\ the\ monster\ book\ on\ top\ of\ all\ other\ objects\ and\ checks\ if\ it\ was\ clicked\ and\ then\ what\ button\ was\ clicked.\r\n
+comment3.params=
+comment3.target=void\ clicked()
+comment3.text=\r\n\ Checks\ whether\ the\ monster\ book\ was\ clicked\ and\ then\ what\ button\ was\ clicked.\r\n
+comment4.params=
+comment4.target=void\ loadPageInfo()
+comment4.text=\r\n\ Loads\ the\ info\ of\ the\ shop\ page,\ tower\ image,\ stat\ bars\ and\ stat\ names,\ price.\r\n
+comment5.params=
+comment5.target=void\ renderOnTop()
+comment5.text=\r\n\ Renders\ the\ monster\ book\ on\ top\ of\ all\ other\ objects.\r\n
+comment6.params=text
+comment6.target=java.util.ArrayList\ formatText(java.lang.String)
+comment6.text=\r\n\ Formats\ the\ text\ passed\ in\ to\ be\ split\ into\ lines\ that\ can\ fit\ onto\ the\ shop.\r\n
+numComments=7

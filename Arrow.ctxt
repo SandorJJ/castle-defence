@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Arrow
+comment0.text=\r\n\ The\ arrow\ is\ a\ projectile\ that\ hits\ an\ enemy.\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-06\r\n
+comment1.params=archer\ velocity\ startingX\ startingY
+comment1.target=Arrow(Archer,\ Vector,\ int,\ int)
+comment1.text=\r\n\ Constructs\ the\ arrow\ object.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Constantly\ checks\ if\ the\ arrow\ hit\ an\ enemy\ and\ moves\ the\ arrow.\r\n
+comment3.params=
+comment3.target=int\ getDamage()
+comment3.text=\r\n\ Returns\ the\ damage\ of\ the\ arrow.\r\n
+comment4.params=
+comment4.target=Enemy[]\ getImmuneEnemies()
+comment4.text=\r\n\ Returns\ the\ immune\ enemies\ of\ the\ arrow.\r\n
+numComments=5

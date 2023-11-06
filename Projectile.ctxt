@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\r\n\ Base\ behaviour\ for\ all\ projectiles\r\n\ \r\n\ @author\ SJonas\r\n\ @version\ 2023-11-06\r\n
+comment1.params=
+comment1.target=int\ getDamage()
+comment2.params=
+comment2.target=Enemy[]\ getImmuneEnemies()
+comment3.params=tower\ velocity\ startingX\ startingY
+comment3.target=Projectile(Tower,\ Vector,\ int,\ int)
+comment3.text=\r\n\ Constructs\ the\ base\ of\ the\ projectile.\r\n
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\r\n\ Moves\ the\ projectile\ based\ on\ its\ velocity.\r\n
+comment5.params=
+comment5.target=void\ outOfBounds()
+comment5.text=\r\n\ Checks\ if\ the\ projectile\ is\ out\ of\ bounds\ and\ removes\ it\ if\ it\ is.\r\n
+comment6.params=
+comment6.target=void\ checkEnemyHit()
+comment6.text=\r\n\ Checks\ if\ the\ rock\ hit\ an\ enemy.\r\n
+comment7.params=enemy
+comment7.target=boolean\ canHit(Enemy)
+comment7.text=\r\n\ Checks\ if\ the\ projectile\ can\ hit\ an\ enemy,\ if\ it\ can\ returns\ true\ otherwise\ false.\r\n
+numComments=8
