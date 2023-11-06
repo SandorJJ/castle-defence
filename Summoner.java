@@ -287,7 +287,10 @@ public class Summoner extends Actor
         subWaves = new ArrayList<>();
         
         // Wave 35
-        subWaves.add(new SubWave(new Ghost(), 3, 200));
+        subWaves.add(new SubWave(new Slime(), 12, 100));
+        subWaves.add(new SubWave(new Wolf(), 9, 100));
+        subWaves.add(new SubWave(new Bat(), 6, 100));
+        subWaves.add(new SubWave(new Ghost(), 3, 100));
         waves.add(new Wave(subWaves));
         subWaves = new ArrayList<>();
         
@@ -540,7 +543,10 @@ public class Summoner extends Actor
         subWaves = new ArrayList<>();
         
         // Wave 35
-        subWaves.add(new SubWave(new EnragedGhost(), 3, 200));
+        subWaves.add(new SubWave(new EnragedSlime(), 12, 100));
+        subWaves.add(new SubWave(new EnragedWolf(), 9, 100));
+        subWaves.add(new SubWave(new EnragedBat(), 6, 100));
+        subWaves.add(new SubWave(new EnragedGhost(), 3, 100));
         waves.add(new Wave(subWaves));
         subWaves = new ArrayList<>();
         
